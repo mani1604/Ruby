@@ -3,4 +3,3 @@ file.rb program reads a text file that has 5 lines.
 The program extracts fourth word from the 3rd line and display to the console.
 The word "fourth" will be displayed.
 This is really cool.
-Adding a sixth line.....
