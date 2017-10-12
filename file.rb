@@ -8,3 +8,5 @@ File.open("text_file", "r").each do |line|
          end
          count += 1
 end
+
+##
